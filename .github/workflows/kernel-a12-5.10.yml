@@ -43,7 +43,6 @@ jobs:
       fail-fast: false
       matrix:
         include:
-        include:
         - sub_level: "66"
           os_patch_level: "2022-01"
           revision: "r11"
